@@ -1,4 +1,0 @@
-#!/bin/sh
-# Usage: bin/detect BUILD_DIR
-
-echo "Git LFS"
